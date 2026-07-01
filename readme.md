@@ -1,6 +1,6 @@
 # Git Notes
 
-## Commands
+## All Commands
 
 anything in <>'s are your choice
 
@@ -9,6 +9,7 @@ git init
 git status
 
 git add <filename>
+git add -A
 git commit -m "<msg>"
 
 git log
@@ -25,4 +26,16 @@ git tag -a '<verNumber>' -m '<msg>'
 
 git push origin <branchName>
 git push origin --tags
+
+git pull origin <branchName>
+```
+
+## Common Commands
+
+```
+git add -A && git commit -m "<msg>"
+git checkout <branchName>
+
+git pull origin <branchName>
+git push origin <branchName>
 ```
