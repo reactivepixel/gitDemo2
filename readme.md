@@ -10,4 +10,6 @@ git status
 
 git add <filename>
 git commit -m "<msg>"
+
+git log
 ```
