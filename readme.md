@@ -35,7 +35,8 @@ git diff
 ## Common Commands
 
 ```
-git add -A && git commit -m "<msg>"
+git add -A
+git commit -m "<msg>"
 git checkout <branchName>
 
 git pull origin <branchName>
