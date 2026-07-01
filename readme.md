@@ -19,8 +19,6 @@ git remote add origin <url>
 git checkout -b <branchName>
 git checkout <branchName>
 
-clear
-history
 
 git tag -a '<verNumber>' -m '<msg>'
 
@@ -41,4 +39,12 @@ git checkout <branchName>
 
 git pull origin <branchName>
 git push origin <branchName>
+```
+
+
+> Oddball Cmds
+
+```
+clear
+history
 ```
