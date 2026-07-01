@@ -28,6 +28,8 @@ git push origin <branchName>
 git push origin --tags
 
 git pull origin <branchName>
+git reset --hard <id>
+git diff
 ```
 
 ## Common Commands
