@@ -4,7 +4,7 @@
 
 anything in <>'s are your choice
 
-```
+```bash
 git init								// intialize the git repo
 git status								// im lost, hlp plz
 
@@ -32,7 +32,7 @@ git diff								// show diff between commits
 
 ## Common Commands
 
-```
+```bash
 git add -A
 git commit -m "<msg>"
 git checkout <branchName>
