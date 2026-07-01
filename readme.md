@@ -12,4 +12,17 @@ git add <filename>
 git commit -m "<msg>"
 
 git log
+
+git remote add origin <url>
+
+git checkout -b <branchName>
+git checkout <branchName>
+
+clear
+history
+
+git tag -a '<verNumber>' -m '<msg>'
+
+git push origin <branchName>
+git push origin --tags
 ```
